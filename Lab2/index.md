@@ -9,7 +9,7 @@
     + Declare variables using: int, double, String, bool.
     + Use print() and string interpolation ($var, ${expr}) to show values.
 
-**2. Code file:** Lab2/task1.dart 
+**2. Code file:** 
 
 --- 
 
@@ -23,8 +23,7 @@
     + Create a Set (unique values) and a Map (key-value).
     + Use indexing, add(), remove(), and map access.
 
-
-**2. Screenshots:**
+**2. Code file:**
 
 --- 
 
@@ -39,7 +38,7 @@
     + Create a function using normal and arrow syntax.
 
 
-**2. Screenshots:**
+**2. Code file:**
 
 --- 
 
