@@ -1,14 +1,5 @@
 void main() {
   Map<String, int> scores = {'Alice': 10, 'Bob': 5, 'Charlie': 8, 'David': 7};
-  // for (String name in scores.keys) {
-  //   if (scores[name]! > 6 && scores[name]! < 9) {
-  //     print('$name is a good student with a score of ${scores[name]}');
-  //   } else if (scores[name]! >= 9) {
-  //     print('$name is an excellent student with a score of ${scores[name]}');
-  //   } else {
-  //     print('$name needs improvement with a score of ${scores[name]}');
-  //   }
-  // }
 
   scores.forEach((name, score) {
     if (score > 6 && score < 9) {
