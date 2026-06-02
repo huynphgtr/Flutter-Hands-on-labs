@@ -9,7 +9,7 @@
     + Declare variables using: int, double, String, bool.
     + Use print() and string interpolation ($var, ${expr}) to show values.
 
-**2. Code file:** 
+**2. Code file:** [Lab02-Task1](./task1.dart/).
 
 --- 
 
@@ -23,7 +23,7 @@
     + Create a Set (unique values) and a Map (key-value).
     + Use indexing, add(), remove(), and map access.
 
-**2. Code file:**
+**2. Code file:** [Lab02-Task2](./task2.dart/)
 
 --- 
 
@@ -38,7 +38,7 @@
     + Create a function using normal and arrow syntax.
 
 
-**2. Code file:**
+**2. Code file:** [Lab02-Task3](./task3.dart/)
 
 --- 
 
@@ -53,7 +53,7 @@
     + Instantiate objects and print results.
 
 
-**2. Screenshots:**
+**2. Code file:** [Lab02-Task4](./task4.dart/)
 
 
 --- 
@@ -69,4 +69,4 @@
     + Create a simple Stream of integers and listen to values.
 
 
-**2. Screenshots:**
+**2. Code file:** [Lab02-Task5](./task5.dart/)
